@@ -73,6 +73,7 @@ extensions = [
 autoapi_type = 'python'
 autoapi_dirs = ['../procrustes']
 autoapi_generate_api_docs = False
+bibtex_bibfiles = ['zreference.bib']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
